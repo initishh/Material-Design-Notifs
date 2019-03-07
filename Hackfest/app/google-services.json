@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "481641958274",
+    "firebase_url": "https://hackfest-786c8.firebaseio.com",
+    "project_id": "hackfest-786c8",
+    "storage_bucket": "hackfest-786c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481641958274:android:f5d852dac267cf53",
+        "android_client_info": {
+          "package_name": "com.example.initish.hackfest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481641958274-uc4hddct2vqs2fl7niges1sq9vrh1hjv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.initish.hackfest",
+            "certificate_hash": "28c91c940b341d52d64b01f7e5e566bd744a2590"
+          }
+        },
+        {
+          "client_id": "481641958274-onm5eibin537nmfekpvffe2khgsuhjou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBelfLUbq1l2brOUkVGGdRqdNs84wM9vTU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481641958274-onm5eibin537nmfekpvffe2khgsuhjou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
